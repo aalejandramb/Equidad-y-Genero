@@ -1,0 +1,56 @@
+/*Autora: Alejandra Mata*/
+/*Fondo*/
+body{
+	/*background-color: #D166F4;*/
+	/*background-color: green;*/
+	/*El fondo lo colocamos en esta etiqueta Body*/
+	background-image: url(https://th.bing.com/th/id/OIP.3oN7579Ax1ciZf9l77HNJQHaE5?w=223&h=180&c=7&o=5&pid=1.7);
+	background-size: 100%;
+}
+
+h1{
+	/*font-family: comic sans ms;*/
+	/*font-family: 'Architects Daughter', cursive;*/
+	font-family: 'Francois One', sans-serif;	
+	font-size: 70px;
+	color: purple;
+	text-align: center;
+	word-spacing: .5cm;
+	letter-spacing: .5cm;
+}
+
+h2{
+	font-family: comic sans ms;
+	font-size: 35px;
+	color: blue;
+	text-align: center;
+	word-spacing: .1cm;
+	letter-spacing: .2cm;
+}
+
+p{
+	/*font-family: arial narrow;*/	
+	font-family: 'Dancing Script', cursive;
+	font-size: 20px;
+	color: black;
+	/*text-align: center;*/
+	/*word-spacing: .1cm;
+	letter-spacing: 1cm;*/
+	font-variant-position: normal;/*verificar no funciona*/
+	width: 55%;
+	border-right-style: solid;
+	border-width: 5px;
+	border-color: magenta;
+}
+
+
+/*-----------------------*/
+.img_derecha{
+	position: relative;
+	left: 60%;
+	float: left;
+}
+
+video{
+	width: 42%;
+}
