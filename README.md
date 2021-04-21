@@ -1,2 +1,2 @@
-# Equidad-y-Genero
+# Mi-Primer-Proyecto
 Proyecto de Escuela de Código - Módulo 0 - Mi Primer Proyecto
